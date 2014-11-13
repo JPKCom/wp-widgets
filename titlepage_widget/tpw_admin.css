@@ -1,0 +1,33 @@
+/*
+ * Styles for the Title Page Widget
+ *
+ */
+ 
+.titlepage_widget label {
+	width: 150px;
+	font-weight: bold;
+	display: block;
+}
+
+.titlepage_widget .title_text {
+	width: 450px;
+}
+
+.titlepage_widget .title_image,
+.titlepage_widget .background_video,
+.titlepage_widget .background_image {
+	width: 450px;
+	color: #bbb;
+}
+
+.preview_placholder {
+	width: 30%;
+	margin: 20px 0px;
+}						
+
+.preview_placholder img {
+	border: 1px solid #888;
+	width: 100%;
+	padding: 10px;
+	background-color: #444;		
+}		
